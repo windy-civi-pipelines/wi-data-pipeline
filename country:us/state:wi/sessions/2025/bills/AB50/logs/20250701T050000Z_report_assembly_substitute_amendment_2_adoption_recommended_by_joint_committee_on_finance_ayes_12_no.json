@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Report Assembly Substitute Amendment 2 adoption recommended by Joint Committee on Finance, Ayes 12, Noes 4",
+    "date": "2025-07-01T05:00:00+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "committee-passage-favorable"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "AB50"
+}

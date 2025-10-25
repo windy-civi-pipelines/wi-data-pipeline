@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "LRB correction (Senate Amendment 1)",
+    "date": "2025-06-25T05:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SB124"
+}

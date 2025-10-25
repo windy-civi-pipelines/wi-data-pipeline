@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Introduced by Senators Feyen, James and Dassler-Alfheim; \ncosponsored by Representatives Armstrong, Dittrich, Knodl, Kreibich and Novak",
+    "date": "2025-02-21T06:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "introduction"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB62"
+}

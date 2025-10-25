@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Introduced by Senators Jacque and Feyen; \ncosponsored by Representatives Brooks, Kaufert, Allen, Knodl, Murphy, Mursau, Subeck, Wichgers and Behnke",
+    "date": "2025-05-09T05:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "introduction"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB252"
+}

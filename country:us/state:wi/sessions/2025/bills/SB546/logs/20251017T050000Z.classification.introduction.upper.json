@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Introduced by Senator Wimberger; \ncosponsored by Representatives Steffen, Kurtz, Allen, Behnke, Dittrich, Donovan, Franklin, Goeben, Gundrum, B. Jacobson, Kitchens, Knodl, Kreibich, Melotik, Murphy, Mursau, Neylon and O'Connor",
+    "date": "2025-10-17T05:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "introduction"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB546"
+}

@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Attempted to present to the Governor on 3-21-2025 by directive of the Speaker",
+    "date": "2025-03-21T05:00:00+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "AB1"
+}

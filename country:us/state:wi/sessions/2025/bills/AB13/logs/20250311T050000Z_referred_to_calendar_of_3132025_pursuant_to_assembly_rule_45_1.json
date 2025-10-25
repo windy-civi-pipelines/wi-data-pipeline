@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Referred to calendar of 3-13-2025 pursuant to Assembly Rule 45 (1)",
+    "date": "2025-03-11T05:00:00+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "referral"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "AB13"
+}

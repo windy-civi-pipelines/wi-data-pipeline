@@ -1,0 +1,13 @@
+{
+  "action": {
+    "description": "Received from Senate amended and concurred in as amended (Senate amendment 1 adopted)",
+    "date": "2025-05-15T05:00:00+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "amendment-passage",
+      "receipt"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "AB75"
+}

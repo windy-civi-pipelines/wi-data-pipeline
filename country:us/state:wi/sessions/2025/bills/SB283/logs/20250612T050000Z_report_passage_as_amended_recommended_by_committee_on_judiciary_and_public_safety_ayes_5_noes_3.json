@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Report passage as amended recommended by Committee on Judiciary and Public Safety, Ayes 5, Noes 3",
+    "date": "2025-06-12T05:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "committee-passage-favorable"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB283"
+}

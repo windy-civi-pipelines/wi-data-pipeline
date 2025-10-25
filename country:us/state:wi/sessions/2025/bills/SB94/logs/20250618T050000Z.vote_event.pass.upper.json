@@ -1,0 +1,236 @@
+{
+  "identifier": "",
+  "motion_text": "PASSAGE",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-06-18T05:00:00+00:00",
+  "result": "pass",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "2025",
+  "bill": "668ce238-b14e-11f0-9d72-ea57c675f0cd",
+  "bill_action": null,
+  "bill_identifier": "SB94",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "BRADLEY",
+      "voter_id": "~{\"name\": \"BRADLEY\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "JAGLER",
+      "voter_id": "~{\"name\": \"JAGLER\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "QUINN",
+      "voter_id": "~{\"name\": \"QUINN\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "CABRAL-GUEVARA",
+      "voter_id": "~{\"name\": \"CABRAL-GUEVARA\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "JAMES",
+      "voter_id": "~{\"name\": \"JAMES\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "STAFSHOLT",
+      "voter_id": "~{\"name\": \"STAFSHOLT\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "FELZKOWSKI",
+      "voter_id": "~{\"name\": \"FELZKOWSKI\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "KAPENGA",
+      "voter_id": "~{\"name\": \"KAPENGA\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "TESTIN",
+      "voter_id": "~{\"name\": \"TESTIN\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "FEYEN",
+      "voter_id": "~{\"name\": \"FEYEN\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "LEMAHIEU",
+      "voter_id": "~{\"name\": \"LEMAHIEU\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "TOMCZYK",
+      "voter_id": "~{\"name\": \"TOMCZYK\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "HUTTON",
+      "voter_id": "~{\"name\": \"HUTTON\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "MARKLEIN",
+      "voter_id": "~{\"name\": \"MARKLEIN\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "WANGGAARD",
+      "voter_id": "~{\"name\": \"WANGGAARD\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "JACQUE",
+      "voter_id": "~{\"name\": \"JACQUE\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "NASS",
+      "voter_id": "~{\"name\": \"NASS\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "WIMBERGER",
+      "voter_id": "~{\"name\": \"WIMBERGER\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "CARPENTER",
+      "voter_id": "~{\"name\": \"CARPENTER\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "KEYESKI",
+      "voter_id": "~{\"name\": \"KEYESKI\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "SMITH",
+      "voter_id": "~{\"name\": \"SMITH\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "DASSLER-ALFHEI",
+      "voter_id": "~{\"name\": \"DASSLER-ALFHEI\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "LARSON",
+      "voter_id": "~{\"name\": \"LARSON\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "SPREITZER",
+      "voter_id": "~{\"name\": \"SPREITZER\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "DRAKE",
+      "voter_id": "~{\"name\": \"DRAKE\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "PFAFF",
+      "voter_id": "~{\"name\": \"PFAFF\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "WALL",
+      "voter_id": "~{\"name\": \"WALL\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "HABUSH SINYKIN",
+      "voter_id": "~{\"name\": \"HABUSH SINYKIN\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "RATCLIFF",
+      "voter_id": "~{\"name\": \"RATCLIFF\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "WIRCH",
+      "voter_id": "~{\"name\": \"WIRCH\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "HESSELBEIN",
+      "voter_id": "~{\"name\": \"HESSELBEIN\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "ROYS",
+      "voter_id": "~{\"name\": \"ROYS\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "JOHNSON",
+      "voter_id": "~{\"name\": \"JOHNSON\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 18
+    },
+    {
+      "option": "no",
+      "value": 14
+    },
+    {
+      "option": "not voting",
+      "value": 1
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://docs.legis.wisconsin.gov/document/votes/2025/sv0038",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "sv0038-SB94"
+}

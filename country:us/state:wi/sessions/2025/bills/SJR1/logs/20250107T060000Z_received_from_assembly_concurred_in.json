@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Received from Assembly concurred in",
+    "date": "2025-01-07T06:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "receipt"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SJR1"
+}

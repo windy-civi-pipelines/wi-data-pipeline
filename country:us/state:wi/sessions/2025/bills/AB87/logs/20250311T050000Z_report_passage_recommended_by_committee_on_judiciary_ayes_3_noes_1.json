@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Report passage recommended by Committee on Judiciary, Ayes 3, Noes 1",
+    "date": "2025-03-11T05:00:00+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "committee-passage-favorable"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "AB87"
+}

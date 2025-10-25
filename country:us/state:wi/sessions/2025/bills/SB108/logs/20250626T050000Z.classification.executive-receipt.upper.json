@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Presented to the Governor on 6-26-2025 by directive of the Majority Leader",
+    "date": "2025-06-26T05:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "executive-receipt"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB108"
+}

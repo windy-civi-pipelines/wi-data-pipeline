@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Introduced by Representatives Tenorio, Miresse, Palmeri, Anderson, Andraca, Arney, Bare, Billings, Brown, Clancy, Cruz, DeSanto, DeSmidt, Doyle, Emerson, Fitzgerald, Goodwin, Haywood, Hong, Hysell, J. Jacobson, Joers, Johnson, Kirsch, Madison, Mayadev, McCarville, McGuire, Melotik, Moore Omokunde, Mursau, Neubauer, Ortiz-Velez, Phelps, Prado, Rivera-Wagner, Roe, Sheehan, Sinicki, Snodgrass, Spaude, Stroud, Stubbs, Subeck, Taylor, Udell and Vining; \ncosponsored by Senators Habush Sinykin, Hesselbein, Carpenter, Dassler-Alfheim, Drake, L. Johnson, Keyeski, Larson, Pfaff, Ratcliff, Roys, Smith, Spreitzer, Wall and Wirch",
+    "date": "2025-03-17T05:00:00+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "introduction"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "AJR19"
+}

@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Introduced by Senators Larson, L. Johnson, Hesselbein, Roys, Spreitzer, Ratcliff, Drake, Carpenter, Smith, Habush Sinykin, Dassler-Alfheim, Keyeski, Pfaff, Wirch and Wall; \ncosponsored by Representatives Stubbs, Sinicki, Andraca, Anderson, Rivera-Wagner, Goodwin, Moore Omokunde, Clancy, Palmeri, Joers, Subeck, Bare, Haywood, Taylor, Vining, Fitzgerald, Neubauer, Roe, Hysell, Brown, Snodgrass, Mayadev, Miresse, Udell, Arney, Emerson, DeSanto, Prado, Tenorio, Spaude, DeSmidt, Ortiz-Velez, Phelps, Stroud, Sheehan, Cruz, Madison, Johnson, Kirsch and Hong",
+    "date": "2025-06-19T05:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "introduction"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB330"
+}

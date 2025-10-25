@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Introduced by Senators James and Quinn; \ncosponsored by Representatives Moses, Armstrong, Dittrich, Murphy and Zimmerman",
+    "date": "2025-06-02T05:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "introduction"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB308"
+}

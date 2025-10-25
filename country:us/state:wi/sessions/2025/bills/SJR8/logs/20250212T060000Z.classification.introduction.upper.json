@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Introduced by Senators Smith, L. Johnson, Carpenter, Pfaff, Ratcliff, Roys, Spreitzer, Wirch, Hesselbein and Larson; \ncosponsored by Representatives Emerson, Phelps, Moore Omokunde, Andraca, Arney, Bare, Brown, Clancy, Doyle, Fitzgerald, Goodwin, Hong, Hysell, J. Jacobson, Joers, Johnson, Kirsch, Madison, Mayadev, Miresse, Ortiz-Velez, Palmeri, Prado, Rivera-Wagner, Roe, Sheehan, Sinicki, Snodgrass, Stubbs, Subeck, Tenorio, Udell, Vining and Taylor",
+    "date": "2025-02-12T06:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "introduction"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SJR8"
+}

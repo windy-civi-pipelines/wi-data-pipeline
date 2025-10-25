@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Considered as privileged and taken up",
+    "date": "2025-01-06T06:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SJR1"
+}

@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Withdrawn from committee on Transportation and referred to committee on Ways and Means pursuant to Assembly Rule 42 (3)(c)",
+    "date": "2025-06-16T05:00:00+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "referral-committee"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "AB219"
+}

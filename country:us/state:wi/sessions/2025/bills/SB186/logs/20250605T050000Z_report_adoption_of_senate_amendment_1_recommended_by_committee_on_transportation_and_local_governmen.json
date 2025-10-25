@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Report adoption of Senate Amendment 1 recommended by Committee on Transportation and Local Government, Ayes 5, Noes 0",
+    "date": "2025-06-05T05:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "amendment-passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB186"
+}

@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Introduced by Senators Jagler, Quinn, Feyen, Wanggaard, Tomczyk, Nass, Bradley, Wimberger, Kapenga, Marklein, James, Jacque, Testin and Cabral-Guevara; \ncosponsored by Representatives Wittke, Novak, O'Connor, Kreibich, Tusler, Gundrum, Duchow, Penterman, Murphy, Sortwell, Born, Maxey, Behnke, Melotik, Mursau, Piwowarczyk, Nedweski, Gustafson, Donovan, Green, Dittrich, Dallman, Brill, B. Jacobson, Rodriguez, Spiros, Allen, Knodl, Kaufert and Moses",
+    "date": "2025-02-05T06:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "introduction"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB18"
+}

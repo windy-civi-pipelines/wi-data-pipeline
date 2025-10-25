@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Introduced by Senator Cabral-Guevara; \ncosponsored by Representatives Tittl, Behnke, B. Jacobson, Kitchens, Knodl, Maxey, Moses and Murphy",
+    "date": "2025-06-12T05:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "introduction"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB327"
+}

@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Introduced by Senators Pfaff, Habush Sinykin, Carpenter, Ratcliff, Roys, Wirch, Hesselbein, Larson, Dassler-Alfheim, Smith, Spreitzer and Keyeski; \ncosponsored by Representatives Doyle, Andraca, Emerson, McCarville, DeSmidt, Miresse, Bare, Fitzgerald, Sinicki, Subeck, Snodgrass, Neubauer, Ortiz-Velez, Clancy, Madison, Moore Omokunde, Sheehan, Joers, Phelps, Kaufert, Palmeri, Hysell, Rivera-Wagner, Arney, Mayadev, Hong, Goodwin, Udell, Stroud, Prado and Johnson",
+    "date": "2025-10-02T05:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "introduction"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB477"
+}

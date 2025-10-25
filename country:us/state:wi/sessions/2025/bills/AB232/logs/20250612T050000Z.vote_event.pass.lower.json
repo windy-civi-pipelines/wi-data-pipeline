@@ -1,0 +1,33 @@
+{
+  "identifier": "",
+  "motion_text": "Report passage recommended by Committee on Workforce Development, Labor, and Integrated Employment, Ayes 9, Noes 0",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-06-12T05:00:00+00:00",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "2025",
+  "bill": "bd9f608c-b14e-11f0-9d72-ea57c675f0cd",
+  "bill_action": null,
+  "bill_identifier": "AB232",
+  "votes": [],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 9
+    },
+    {
+      "option": "no",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://docs.legis.wisconsin.gov/document/journals/2025/hist205649",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "hist205649-AB232"
+}

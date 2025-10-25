@@ -1,0 +1,31 @@
+{
+  "identifier": "",
+  "motion_text": "Public hearing requirement waived by committee on Senate Organization, pursuant to Senate Rule 18 (1m), Ayes 3, Noes 2",
+  "motion_classification": [],
+  "start_date": "2025-05-13T05:00:00+00:00",
+  "result": "pass",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "2025",
+  "bill": "a8a91146-b14e-11f0-9d72-ea57c675f0cd",
+  "bill_action": null,
+  "bill_identifier": "AB73",
+  "votes": [],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 3
+    },
+    {
+      "option": "no",
+      "value": 2
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://docs.legis.wisconsin.gov/document/journals/2025/hist203944",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "hist203944-AB73"
+}

@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Introduced by Senators Cabral-Guevara, Tomczyk, Kapenga and Wanggaard; \ncosponsored by Representatives Nedweski, Murphy, Gustafson, Allen, Armstrong, Behnke, Brill, Dallman, Dittrich, Donovan, Duchow, Gundrum, Knodl, Kreibich, Krug, Maxey, Melotik, Moses, Mursau, O'Connor, Penterman, Piwowarczyk, Sortwell, Steffen, Summerfield, Swearingen, Tusler and Wichgers",
+    "date": "2025-10-02T05:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "introduction"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB498"
+}

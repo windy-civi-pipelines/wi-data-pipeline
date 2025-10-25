@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Introduced by Senators Hutton and Wanggaard; \ncosponsored by Representatives Tusler, Dittrich, Gundrum, Kaufert, Kitchens, Knodl, Maxey, Melotik, Murphy, O'Connor, Piwowarczyk, Steffen and Wichgers",
+    "date": "2025-05-30T05:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "introduction"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB300"
+}

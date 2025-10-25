@@ -1,0 +1,191 @@
+{
+  "id": "ocd-jurisdiction/country:us/state:wi/government",
+  "name": "Wisconsin",
+  "url": "http://legis.wisconsin.gov/",
+  "division_id": "ocd-division/country:us/state:wi",
+  "classification": "state",
+  "legislative_sessions": [
+    {
+      "_scraped_name": "2009 Regular Session",
+      "classification": "primary",
+      "identifier": "2009 Regular Session",
+      "name": "2009-2010 Regular Session",
+      "start_date": "2009-01-13",
+      "end_date": "2011-01-03"
+    },
+    {
+      "_scraped_name": "2011 Regular Session",
+      "classification": "primary",
+      "identifier": "2011 Regular Session",
+      "name": "2011-2012 Regular Session",
+      "start_date": "2011-01-11",
+      "end_date": "2013-01-07"
+    },
+    {
+      "_scraped_name": "2013 Regular Session",
+      "classification": "primary",
+      "identifier": "2013 Regular Session",
+      "name": "2013-2014 Regular Session",
+      "start_date": "2013-01-07",
+      "end_date": "2014-01-13"
+    },
+    {
+      "_scraped_name": "2015 Regular Session",
+      "classification": "primary",
+      "identifier": "2015 Regular Session",
+      "name": "2015-2016 Regular Session",
+      "start_date": "2015-01-05",
+      "end_date": "2016-01-11"
+    },
+    {
+      "_scraped_name": "December 2009 Special Session",
+      "classification": "special",
+      "identifier": "December 2009 Special Session",
+      "name": "Dec 2009 Special Session",
+      "start_date": "2009-12-16",
+      "end_date": "2009-12-16"
+    },
+    {
+      "_scraped_name": "December 2013 Special Session",
+      "classification": "special",
+      "identifier": "December 2013 Special Session",
+      "name": "Dec 2013 Special Session",
+      "start_date": "2013-12-04",
+      "end_date": "2013-12-20"
+    },
+    {
+      "_scraped_name": "January 2011 Special Session",
+      "classification": "special",
+      "identifier": "January 2011 Special Session",
+      "name": "Jan 2011 Special Session",
+      "start_date": "2011-01-18",
+      "end_date": "2011-05-11"
+    },
+    {
+      "_scraped_name": "January 2014 Special Session",
+      "classification": "special",
+      "identifier": "January 2014 Special Session",
+      "name": "Jan 2014 Special Session",
+      "start_date": "2014-02-11",
+      "end_date": "2014-03-24"
+    },
+    {
+      "_scraped_name": "June 2009 Special Session",
+      "classification": "special",
+      "identifier": "June 2009 Special Session",
+      "name": "Jun 2009 Special Session",
+      "start_date": "2009-06-27",
+      "end_date": "2009-06-27"
+    },
+    {
+      "_scraped_name": "October 2013 Special Session",
+      "classification": "special",
+      "identifier": "October 2013 Special Session",
+      "name": "Oct 2013 Special Session",
+      "start_date": "2013-10-15",
+      "end_date": "2013-11-12"
+    },
+    {
+      "_scraped_name": "September 2011 Special Session",
+      "classification": "special",
+      "identifier": "September 2011 Special Session",
+      "name": "Sep 2011 Special Session",
+      "start_date": "2011-10-25",
+      "end_date": "2011-11-03"
+    },
+    {
+      "identifier": "January 2017 Special Session",
+      "classification": "special",
+      "name": "January 2017 Special Session",
+      "_scraped_name": "January 2017 Special Session",
+      "start_date": "2017-01-05",
+      "end_date": "2017-06-14"
+    },
+    {
+      "identifier": "August 2017 Special Session",
+      "classification": "special",
+      "name": "August 2017 Special Session",
+      "_scraped_name": "August 2017 Special Session",
+      "start_date": "2017-08-01",
+      "end_date": "2017-09-14"
+    },
+    {
+      "_scraped_name": "2017 Regular Session",
+      "classification": "primary",
+      "identifier": "2017 Regular Session",
+      "name": "2017-2018 Regular Session",
+      "start_date": "2017-01-03",
+      "end_date": "2018-05-09"
+    },
+    {
+      "identifier": "January 2018 Special Session",
+      "classification": "special",
+      "name": "January 2018 Special Session",
+      "_scraped_name": "January 2018 Special Session",
+      "start_date": "2018-01-18",
+      "end_date": "2018-02-27"
+    },
+    {
+      "identifier": "March 2018 Special Session",
+      "classification": "special",
+      "name": "March 2018 Special Session",
+      "_scraped_name": "March 2018 Special Session",
+      "start_date": "2018-03-15",
+      "end_date": "2018-03-29"
+    },
+    {
+      "_scraped_name": "2019 Regular Session",
+      "classification": "primary",
+      "identifier": "2019",
+      "name": "2019-2020 Regular Session",
+      "start_date": "2019-01-07",
+      "end_date": "2020-05-27"
+    },
+    {
+      "_scraped_name": "2021 Regular Session",
+      "classification": "primary",
+      "identifier": "2021",
+      "name": "2021-2022 Regular Session",
+      "start_date": "2021-01-04",
+      "end_date": "2022-05-27",
+      "active": false
+    },
+    {
+      "_scraped_name": "January 2021 Special Session",
+      "classification": "special",
+      "identifier": "2021S1",
+      "name": "January 2021 Special Session",
+      "start_date": "2021-01-19",
+      "end_date": "2021-02-21",
+      "active": false
+    },
+    {
+      "_scraped_name": "2023 Regular Session",
+      "classification": "primary",
+      "identifier": "2023",
+      "name": "2023-2024 Regular Session",
+      "start_date": "2023-01-03",
+      "end_date": "2024-05-25",
+      "active": false
+    },
+    {
+      "_scraped_name": "September 2023 Special Session",
+      "classification": "special",
+      "identifier": "2023S1",
+      "name": "September 2023 Special Session",
+      "start_date": "2023-09-20",
+      "end_date": "2023-09-22",
+      "active": false
+    },
+    {
+      "_scraped_name": "2025 Regular Session",
+      "classification": "primary",
+      "identifier": "2025",
+      "name": "2025-2026 Regular Session",
+      "start_date": "2025-01-06",
+      "end_date": "2026-05-25",
+      "active": true
+    }
+  ],
+  "extras": {}
+}

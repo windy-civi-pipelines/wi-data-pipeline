@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Report approved by the Governor on 8-8-2025. 2025 Wisconsin Act 23",
+    "date": "2025-08-11T05:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "executive-signature"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB98"
+}

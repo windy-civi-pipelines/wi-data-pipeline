@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Introduced by Senators Wanggaard, Cabral-Guevara, Carpenter, Dassler-Alfheim, Feyen, Hesselbein, James, Marklein, Quinn and Ratcliff; \ncosponsored by Representatives Neylon, Spiros, Anderson, Andraca, Armstrong, Behnke, Billings, Brown, Callahan, DeSmidt, Dittrich, Emerson, Fitzgerald, Goodwin, Hong, Joers, Johnson, Maxey, Mayadev, Melotik, Miresse, Moore Omokunde, Moses, Mursau, Ortiz-Velez, Snodgrass, Stroud, Stubbs, Subeck, Tenorio, Tusler, Vining, Wichgers, Goeben and Palmeri",
+    "date": "2025-02-03T06:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "introduction"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB12"
+}

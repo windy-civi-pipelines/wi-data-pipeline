@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Introduced by Representatives Krug, Allen, Brooks, Dittrich, Goeben, Kreibich, Penterman, Piwowarczyk and Summerfield; \ncosponsored by Senator Jagler",
+    "date": "2025-09-26T05:00:00+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "introduction"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "AB456"
+}

@@ -1,0 +1,13 @@
+{
+  "action": {
+    "description": "Read a third time and passed, Ayes 69, Noes 22, Paired 2",
+    "date": "2025-03-20T05:00:00+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "passage",
+      "reading-3"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "AB105"
+}

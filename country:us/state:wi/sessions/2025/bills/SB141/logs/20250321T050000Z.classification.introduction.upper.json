@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Introduced by Senator Bradley; \ncosponsored by Representatives Maxey, Donovan, Piwowarczyk, Rodriguez, Dittrich, Gundrum, Gustafson, Knodl, Kreibich, Mursau, Penterman, B. Jacobson and O'Connor",
+    "date": "2025-03-21T05:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "introduction"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB141"
+}

@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Introduced by Senator Marklein; \ncosponsored by Representatives Tranel, Novak, Billings, Dittrich, Kreibich, Melotik, Miresse, Stubbs and Subeck",
+    "date": "2025-10-17T05:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "introduction"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB551"
+}

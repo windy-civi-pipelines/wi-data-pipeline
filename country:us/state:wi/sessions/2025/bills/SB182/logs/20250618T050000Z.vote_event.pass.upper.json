@@ -1,0 +1,31 @@
+{
+  "identifier": "",
+  "motion_text": "Senate Substitute Amendment 1 rejected, Ayes 17, Noes 15",
+  "motion_classification": [],
+  "start_date": "2025-06-18T05:00:00+00:00",
+  "result": "pass",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "2025",
+  "bill": "70a59f1c-b14e-11f0-9d72-ea57c675f0cd",
+  "bill_action": null,
+  "bill_identifier": "SB182",
+  "votes": [],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 17
+    },
+    {
+      "option": "no",
+      "value": 15
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://docs.legis.wisconsin.gov/document/amends/2025/REG/SB182-SSA1",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "SB182-SSA1-SB182"
+}

@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Introduced by Senators Wimberger, Bradley, Carpenter, Dassler-Alfheim, Drake, Jagler, Keyeski, Larson, Marklein, Nass, Pfaff, Ratcliff, Roys, Spreitzer, Tomczyk, Wall, Wanggaard and Wirch; \ncosponsored by Representatives Kurtz, Penterman, Anderson, Andraca, Armstrong, Behnke, Callahan, DeSmidt, Dittrich, Doyle, Duchow, Fitzgerald, Green, Gundrum, Gustafson, B. Jacobson, Johnson, Kaufert, Kirsch, Kitchens, Knodl, Kreibich, Krug, McCarville, Melotik, Miresse, Murphy, Mursau, Nedweski, Novak, O'Connor, Ortiz-Velez, Petersen, Piwowarczyk, Prado, Pronschinske, Rivera-Wagner, Roe, Sinicki, Snodgrass, Snyder, Sortwell, Spiros, Steffen, Stroud, Stubbs, Subeck, Tranel, Tusler, Udell, Wichgers, Wittke and Zimmerman",
+    "date": "2025-09-12T05:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "introduction"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SJR87"
+}

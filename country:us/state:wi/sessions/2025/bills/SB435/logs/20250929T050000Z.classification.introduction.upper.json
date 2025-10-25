@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Introduced by Senators Cabral-Guevara and Testin; \ncosponsored by Representatives VanderMeer, Franklin, Donovan, Goeben, Green, Gundrum, Knodl, Maxey, Steffen and Tittl",
+    "date": "2025-09-29T05:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "introduction"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB435"
+}

@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Executive action taken by joint committee on Finance",
+    "date": "2025-06-27T05:00:00+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "AB50"
+}

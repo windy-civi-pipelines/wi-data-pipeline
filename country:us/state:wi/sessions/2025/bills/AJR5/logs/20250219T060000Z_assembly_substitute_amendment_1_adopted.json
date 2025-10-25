@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Assembly Substitute Amendment 1 adopted",
+    "date": "2025-02-19T06:00:00+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "amendment-passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "AJR5"
+}

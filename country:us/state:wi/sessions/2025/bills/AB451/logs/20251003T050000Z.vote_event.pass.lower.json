@@ -1,0 +1,33 @@
+{
+  "identifier": "",
+  "motion_text": "Report Assembly Amendment 1 adoption recommended by Committee on Housing and Real Estate, Ayes 12, Noes 2",
+  "motion_classification": [
+    "amendment"
+  ],
+  "start_date": "2025-10-03T05:00:00+00:00",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "2025",
+  "bill": "d542da84-b14e-11f0-9d72-ea57c675f0cd",
+  "bill_action": null,
+  "bill_identifier": "AB451",
+  "votes": [],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 12
+    },
+    {
+      "option": "no",
+      "value": 2
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://docs.legis.wisconsin.gov/document/journals/2025/hist209851",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "hist209851-AB451"
+}

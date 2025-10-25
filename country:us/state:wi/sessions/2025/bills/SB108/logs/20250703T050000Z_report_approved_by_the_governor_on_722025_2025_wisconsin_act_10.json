@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Report approved by the Governor on 7-2-2025. 2025 Wisconsin Act 10",
+    "date": "2025-07-03T05:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "executive-signature"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB108"
+}

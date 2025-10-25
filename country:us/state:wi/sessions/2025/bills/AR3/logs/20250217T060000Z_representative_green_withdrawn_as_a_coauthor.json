@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Representative Green withdrawn as a coauthor",
+    "date": "2025-02-17T06:00:00+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "withdrawal"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "AR3"
+}

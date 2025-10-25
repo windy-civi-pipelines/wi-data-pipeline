@@ -1,0 +1,31 @@
+{
+  "identifier": "",
+  "motion_text": "Report adoption recommended by Committee on Judiciary, Ayes 5, Noes 1",
+  "motion_classification": [],
+  "start_date": "2025-05-29T05:00:00+00:00",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "2025",
+  "bill": "e18305da-b14e-11f0-9d72-ea57c675f0cd",
+  "bill_action": null,
+  "bill_identifier": "AJR10",
+  "votes": [],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 5
+    },
+    {
+      "option": "no",
+      "value": 1
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://docs.legis.wisconsin.gov/document/journals/2025/hist204895",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "hist204895-AJR10"
+}

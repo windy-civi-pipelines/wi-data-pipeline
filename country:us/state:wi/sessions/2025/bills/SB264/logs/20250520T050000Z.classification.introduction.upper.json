@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Introduced by Senators Cabral-Guevara, James, L. Johnson, Carpenter, Dassler-Alfheim, Drake, Habush Sinykin, Hesselbein, Keyeski, Larson, Nass, Ratcliff, Roys, Spreitzer and Wall; \ncosponsored by Representatives Duchow, Nedweski, Gustafson, Subeck, Anderson, Andraca, Arney, Bare, Behnke, Brown, Clancy, DeSanto, DeSmidt, Dittrich, Donovan, Fitzgerald, Franklin, Goeben, Gundrum, Hysell, Joers, Johnson, Kirsch, Kreibich, Maxey, Miresse, Moore Omokunde, Mursau, Neubauer, Neylon, O'Connor, Ortiz-Velez, Prado, Sheehan, Snodgrass, Spaude, Steffen, Stroud, Stubbs, Tusler, Udell, Vining and Palmeri",
+    "date": "2025-05-20T05:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "introduction"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB264"
+}

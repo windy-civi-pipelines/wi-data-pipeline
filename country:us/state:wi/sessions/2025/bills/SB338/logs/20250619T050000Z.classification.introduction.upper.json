@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Introduced by Senators Jacque and Bradley; \ncosponsored by Representatives Wichgers, Brill, O'Connor, Maxey, Kreibich, Goeben, Murphy, Tittl, Behnke and Allen",
+    "date": "2025-06-19T05:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "introduction"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB338"
+}

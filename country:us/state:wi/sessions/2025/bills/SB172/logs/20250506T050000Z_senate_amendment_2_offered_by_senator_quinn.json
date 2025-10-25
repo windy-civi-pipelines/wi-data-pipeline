@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Senate Amendment 2 offered by Senator Quinn",
+    "date": "2025-05-06T05:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SB172"
+}

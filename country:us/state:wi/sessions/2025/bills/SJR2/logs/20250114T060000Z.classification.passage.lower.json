@@ -1,0 +1,13 @@
+{
+  "action": {
+    "description": "Read a third time and concurred in, Ayes 54, Noes 45",
+    "date": "2025-01-14T06:00:00+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "passage",
+      "reading-3"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SJR2"
+}

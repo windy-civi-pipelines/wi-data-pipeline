@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Laid on the table",
+    "date": "2025-06-24T05:00:00+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "deferral"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "AJR56"
+}

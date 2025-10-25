@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Report passage without recommendation, pursuant to Senate Rule 27 (4)(a), by Committee on Judiciary and Public Safety, Ayes 4, Noes 4",
+    "date": "2025-02-18T06:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SB25"
+}

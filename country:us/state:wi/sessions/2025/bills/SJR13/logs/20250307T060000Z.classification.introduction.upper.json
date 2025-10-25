@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Introduced by Senators Marklein, Nass, Carpenter, Drake, Hesselbein, Jacque, Jagler, James, L. Johnson, Pfaff, Quinn, Ratcliff, Smith, Stafsholt, Wanggaard and Wirch; \ncosponsored by Representatives Novak, Tranel, Vos, August, Petersen, Allen, Brown, Dittrich, Emerson, Goodwin, Gundrum, Haywood, Kaufert, Kirsch, Kitchens, Knodl, Kreibich, Krug, Kurtz, Moore Omokunde, Moses, Murphy, Mursau, Neubauer, Neylon, O'Connor, Penterman, Pronschinske, Rivera-Wagner, Rodriguez, Sinicki, Snyder, Spiros, Steffen, Stubbs, Subeck, Tittl, Tusler, VanderMeer, Wichgers, Wittke and Zimmerman",
+    "date": "2025-03-07T06:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "introduction"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SJR13"
+}

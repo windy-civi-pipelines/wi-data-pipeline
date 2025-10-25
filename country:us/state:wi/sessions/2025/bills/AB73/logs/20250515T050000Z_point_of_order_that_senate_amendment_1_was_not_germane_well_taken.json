@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Point of order that Senate Amendment 1 was not germane well taken",
+    "date": "2025-05-15T05:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "AB73"
+}

@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Introduced by Senator James; \ncosponsored by Representatives Moses, Callahan, Snyder, O'Connor and Mursau",
+    "date": "2025-04-14T05:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "introduction"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB192"
+}

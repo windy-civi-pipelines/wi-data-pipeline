@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Introduced by Senator Jagler; \ncosponsored by Representatives Armstrong, Brooks, Dittrich, Knodl, Kreibich, Murphy, O'Connor, Piwowarczyk, Summerfield and Penterman",
+    "date": "2025-10-02T05:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "introduction"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB472"
+}

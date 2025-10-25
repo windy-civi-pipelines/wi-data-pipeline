@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Report adoption of Senate Amendment 2 recommended by Committee on Insurance, Housing, Rural Issues and Forestry, Ayes 5, Noes 0",
+    "date": "2025-05-09T05:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "amendment-passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB172"
+}

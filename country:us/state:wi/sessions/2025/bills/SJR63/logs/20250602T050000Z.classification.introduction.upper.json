@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Introduced by Senators Jacque, Marklein, Pfaff, Carpenter, Wall, Cabral-Guevara, Wirch, Spreitzer, Roys, Drake, Keyeski, Testin, Tomczyk and Ratcliff; \ncosponsored by Representatives Penterman, Tranel, Sinicki, Kaufert, Dittrich, Brill, Armstrong, Arney, Bare, Neubauer, Spaude, B. Jacobson, Novak, Gundrum, Miresse, Brown, Allen, Fitzgerald, Murphy, Johnson, Melotik, Roe, Kreibich, Knodl, Gustafson, Tittl, Goeben, Behnke, Anderson, Green, Tucker, Doyle, Tusler, O'Connor, Duchow, Mursau, Franklin, Spiros, Goodwin, Wichgers, Sheehan, Clancy, Kitchens, VanderMeer, Moses, Pronschinske, Hurd and Palmeri",
+    "date": "2025-06-02T05:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "introduction"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SJR63"
+}

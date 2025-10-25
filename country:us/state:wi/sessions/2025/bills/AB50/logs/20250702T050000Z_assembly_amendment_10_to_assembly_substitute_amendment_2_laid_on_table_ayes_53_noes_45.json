@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Assembly Amendment 10 to Assembly Substitute Amendment 2 laid on table, Ayes 53, Noes 45",
+    "date": "2025-07-02T05:00:00+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "deferral"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "AB50"
+}

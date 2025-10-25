@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Introduced by Senators Jacque, Feyen, Carpenter, Nass and Pfaff; \ncosponsored by Representatives Murphy, Allen, Behnke, Dittrich, Goeben, Kreibich, Mursau and Wichgers",
+    "date": "2025-03-07T06:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "introduction"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB90"
+}

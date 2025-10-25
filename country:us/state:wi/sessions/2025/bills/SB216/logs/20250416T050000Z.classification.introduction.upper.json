@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Introduced by Senator Tomczyk; \ncosponsored by Representatives O'Connor, Brooks, Armstrong, Novak, Dittrich, Donovan, Franklin, Gundrum, B. Jacobson, Kitchens, Knodl, Melotik, Mursau and VanderMeer",
+    "date": "2025-04-16T05:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "introduction"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB216"
+}

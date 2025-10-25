@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Introduced by Senators Hutton, Bradley, Pfaff, Wirch, Cabral-Guevara, Nass, Kapenga, Ratcliff and Spreitzer; \ncosponsored by Representatives Franklin, Maxey, Doyle, Armstrong, DeSmidt, Goodwin, O'Connor, Dittrich, Gundrum, Miresse, Snodgrass, Melotik, Joers, Sheehan, Knodl, Bare, Roe, Kreibich, Behnke and Brooks",
+    "date": "2025-05-20T05:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "introduction"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB267"
+}

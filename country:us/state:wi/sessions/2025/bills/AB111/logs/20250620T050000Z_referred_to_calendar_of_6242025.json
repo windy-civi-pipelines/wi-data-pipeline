@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Referred to calendar of 6-24-2025",
+    "date": "2025-06-20T05:00:00+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "referral"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "AB111"
+}

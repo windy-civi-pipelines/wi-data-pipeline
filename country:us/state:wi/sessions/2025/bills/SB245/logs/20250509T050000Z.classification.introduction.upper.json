@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Introduced by Senators James and Testin; \ncosponsored by Representatives Dittrich, Armstrong, Callahan, Donovan, B. Jacobson, Kreibich, Maxey, Mursau, Novak and Piwowarczyk",
+    "date": "2025-05-09T05:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "introduction"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB245"
+}

@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Introduced by Senator Jagler; \ncosponsored by Representatives Krug, Dittrich, Knodl, Maxey, Murphy, Mursau, O'Connor, Ortiz-Velez, Wichgers and Piwowarczyk",
+    "date": "2025-04-14T05:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "introduction"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB193"
+}

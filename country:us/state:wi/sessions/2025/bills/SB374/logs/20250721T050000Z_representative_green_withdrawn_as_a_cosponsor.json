@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Representative Green withdrawn as a cosponsor",
+    "date": "2025-07-21T05:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "withdrawal"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB374"
+}

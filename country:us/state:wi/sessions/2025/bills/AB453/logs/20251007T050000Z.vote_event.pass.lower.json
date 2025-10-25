@@ -1,0 +1,31 @@
+{
+  "identifier": "",
+  "motion_text": "Assembly Substitute Amendment 1 laid on table, Ayes 54, Noes 41",
+  "motion_classification": [],
+  "start_date": "2025-10-07T05:00:00+00:00",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "2025",
+  "bill": "d5ad5a76-b14e-11f0-9d72-ea57c675f0cd",
+  "bill_action": null,
+  "bill_identifier": "AB453",
+  "votes": [],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 54
+    },
+    {
+      "option": "no",
+      "value": 41
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://docs.legis.wisconsin.gov/document/amends/2025/REG/AB453-ASA1",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "AB453-ASA1-AB453"
+}

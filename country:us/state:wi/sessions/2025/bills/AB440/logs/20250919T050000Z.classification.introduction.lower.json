@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Introduced by Representatives J. Jacobson and Udell; \ncosponsored by Senators Marklein and Ratcliff",
+    "date": "2025-09-19T05:00:00+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "introduction"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "AB440"
+}

@@ -1,0 +1,13 @@
+{
+  "action": {
+    "description": "Received from Assembly amended and concurred in as amended, Assembly Substitute Amendment 2 adopted",
+    "date": "2025-10-15T05:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "amendment-passage",
+      "receipt"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SJR88"
+}

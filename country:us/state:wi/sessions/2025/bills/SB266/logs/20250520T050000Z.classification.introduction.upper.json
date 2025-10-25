@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Introduced by Senator Wanggaard; \ncosponsored by Representatives Wittke, O'Connor, B. Jacobson, Snyder, VanderMeer, Steffen, Moses, Penterman, Dittrich, Murphy, Knodl, Behnke, Piwowarczyk, Mursau and Kreibich",
+    "date": "2025-05-20T05:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "introduction"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB266"
+}

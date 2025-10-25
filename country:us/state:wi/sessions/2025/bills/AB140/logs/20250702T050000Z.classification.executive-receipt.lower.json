@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Presented to the Governor on 7-2-2025 by directive of the Speaker",
+    "date": "2025-07-02T05:00:00+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "executive-receipt"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "AB140"
+}

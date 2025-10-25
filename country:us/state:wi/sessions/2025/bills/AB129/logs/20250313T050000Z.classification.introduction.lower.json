@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Introduced by Representatives Mursau, Novak, Behnke, Donovan and Tusler; \ncosponsored by Senator Jacque",
+    "date": "2025-03-13T05:00:00+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "introduction"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "AB129"
+}

@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Senate Amendment 19 to Senate Substitute Amendment 2 laid on table, Ayes 18, Noes 15",
+    "date": "2025-07-02T05:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "deferral"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB45"
+}

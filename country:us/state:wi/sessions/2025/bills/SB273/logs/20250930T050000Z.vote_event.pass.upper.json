@@ -1,0 +1,33 @@
+{
+  "identifier": "",
+  "motion_text": "Report passage as amended recommended by Committee on Transportation and Local Government, Ayes 5, Noes 0",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-09-30T05:00:00+00:00",
+  "result": "pass",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "2025",
+  "bill": "7bd65b38-b14e-11f0-9d72-ea57c675f0cd",
+  "bill_action": null,
+  "bill_identifier": "SB273",
+  "votes": [],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 5
+    },
+    {
+      "option": "no",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://docs.legis.wisconsin.gov/document/journals/2025/hist209489",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "hist209489-SB273"
+}

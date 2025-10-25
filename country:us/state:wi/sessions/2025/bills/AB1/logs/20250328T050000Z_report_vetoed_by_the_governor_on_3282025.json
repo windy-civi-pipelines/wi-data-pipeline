@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Report vetoed by the Governor on 3-28-2025",
+    "date": "2025-03-28T05:00:00+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "executive-veto"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "AB1"
+}

@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Published 3-29-2025",
+    "date": "2025-03-28T05:00:00+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "became-law"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "AB99"
+}

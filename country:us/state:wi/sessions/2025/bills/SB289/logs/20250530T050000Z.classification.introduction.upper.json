@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Introduced by Senators Bradley, Cabral-Guevara, Feyen, Hutton, Kapenga, Nass, Quinn, Stafsholt and Tomczyk; \ncosponsored by Representatives Gustafson, Nedweski, Armstrong, Behnke, Brooks, Callahan, Dallman, Dittrich, Donovan, Goeben, Green, Gundrum, B. Jacobson, Kaufert, Knodl, Kreibich, Krug, Maxey, Melotik, Murphy, Mursau, Neylon, O'Connor, Penterman, Piwowarczyk, Tittl, Tranel, Tusler, Wichgers and Wittke",
+    "date": "2025-05-30T05:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "introduction"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB289"
+}

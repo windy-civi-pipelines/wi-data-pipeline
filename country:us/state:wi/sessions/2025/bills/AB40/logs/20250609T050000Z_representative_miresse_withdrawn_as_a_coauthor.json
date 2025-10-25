@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Representative Miresse withdrawn as a coauthor",
+    "date": "2025-06-09T05:00:00+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "withdrawal"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "AB40"
+}

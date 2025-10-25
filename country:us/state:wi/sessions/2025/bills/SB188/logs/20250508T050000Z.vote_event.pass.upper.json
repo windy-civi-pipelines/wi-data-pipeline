@@ -1,0 +1,33 @@
+{
+  "identifier": "",
+  "motion_text": "Report passage recommended by Committee on Judiciary and Public Safety, Ayes 8, Noes 0",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-05-08T05:00:00+00:00",
+  "result": "pass",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "2025",
+  "bill": "71d7fe84-b14e-11f0-9d72-ea57c675f0cd",
+  "bill_action": null,
+  "bill_identifier": "SB188",
+  "votes": [],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 8
+    },
+    {
+      "option": "no",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://docs.legis.wisconsin.gov/document/journals/2025/hist203554",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "hist203554-SB188"
+}

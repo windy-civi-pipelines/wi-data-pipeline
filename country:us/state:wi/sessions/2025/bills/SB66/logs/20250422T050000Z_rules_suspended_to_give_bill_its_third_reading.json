@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Rules suspended to give bill its third reading",
+    "date": "2025-04-22T05:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SB66"
+}

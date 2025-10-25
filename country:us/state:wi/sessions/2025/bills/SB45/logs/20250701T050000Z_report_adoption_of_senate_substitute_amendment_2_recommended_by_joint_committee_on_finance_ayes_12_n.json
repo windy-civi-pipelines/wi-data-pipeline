@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Report adoption of Senate Substitute Amendment 2 recommended by Joint Committee on Finance, Ayes 12, Noes 4",
+    "date": "2025-07-01T05:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "amendment-passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB45"
+}

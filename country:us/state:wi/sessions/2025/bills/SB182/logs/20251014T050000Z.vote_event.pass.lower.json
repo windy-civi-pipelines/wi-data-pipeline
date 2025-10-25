@@ -1,0 +1,31 @@
+{
+  "identifier": "",
+  "motion_text": "Assembly Amendment 1 laid on table, Ayes 52, Noes 44",
+  "motion_classification": [],
+  "start_date": "2025-10-14T05:00:00+00:00",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "2025",
+  "bill": "70a59f1c-b14e-11f0-9d72-ea57c675f0cd",
+  "bill_action": null,
+  "bill_identifier": "SB182",
+  "votes": [],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 52
+    },
+    {
+      "option": "no",
+      "value": 44
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://docs.legis.wisconsin.gov/document/amends/2025/REG/SB182-AA1",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "SB182-AA1-SB182"
+}

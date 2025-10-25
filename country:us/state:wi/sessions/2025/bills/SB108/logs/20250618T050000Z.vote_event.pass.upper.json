@@ -1,0 +1,31 @@
+{
+  "identifier": "",
+  "motion_text": "Senate Amendment 1 rejected, Ayes 17, Noes 15",
+  "motion_classification": [],
+  "start_date": "2025-06-18T05:00:00+00:00",
+  "result": "pass",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "2025",
+  "bill": "6860f04a-b14e-11f0-9d72-ea57c675f0cd",
+  "bill_action": null,
+  "bill_identifier": "SB108",
+  "votes": [],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 17
+    },
+    {
+      "option": "no",
+      "value": 15
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://docs.legis.wisconsin.gov/document/amends/2025/REG/SB108-SA1",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "SB108-SA1-SB108"
+}

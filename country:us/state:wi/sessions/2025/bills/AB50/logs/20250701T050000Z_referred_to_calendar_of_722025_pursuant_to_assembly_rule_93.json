@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Referred to calendar of 7-2-2025 pursuant to Assembly Rule 93",
+    "date": "2025-07-01T05:00:00+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "referral"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "AB50"
+}

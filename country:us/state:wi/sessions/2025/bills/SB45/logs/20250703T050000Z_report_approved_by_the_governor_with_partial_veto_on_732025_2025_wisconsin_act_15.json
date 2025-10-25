@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Report approved by the Governor with partial veto on 7-3-2025. 2025 Wisconsin Act 15",
+    "date": "2025-07-03T05:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "executive-veto-line-item"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB45"
+}

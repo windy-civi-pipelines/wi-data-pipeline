@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Senate Amendment 26 to Senate Substitute Amendment 2 adopted, Ayes 20, Noes 13",
+    "date": "2025-07-02T05:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "amendment-passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB45"
+}

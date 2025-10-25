@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Introduced by Representatives Clancy, Cruz, Hong, Madison, Phelps, Tenorio and Ortiz-Velez",
+    "date": "2025-10-24T05:00:00+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "introduction"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "AB576"
+}

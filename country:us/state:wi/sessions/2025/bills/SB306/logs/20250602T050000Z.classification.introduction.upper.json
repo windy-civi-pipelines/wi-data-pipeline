@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Introduced by Senator James; \ncosponsored by Representatives Novak, Tranel, Mursau, Gundrum, Kaufert, Kitchens, Kreibich, Dittrich, Snyder, Tittl, Melotik, Brill and Moses",
+    "date": "2025-06-02T05:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "introduction"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB306"
+}

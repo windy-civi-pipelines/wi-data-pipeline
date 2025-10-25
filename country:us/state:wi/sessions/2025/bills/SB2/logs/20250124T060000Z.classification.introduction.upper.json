@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Introduced by Senators Jacque, Tomczyk, Carpenter, Keyeski, Pfaff, Ratcliff, Spreitzer, Wall, Wanggaard and Wirch; \ncosponsored by Representatives Murphy, Snyder, Anderson, Armstrong, Bare, Behnke, Billings, Brill, Brown, DeSmidt, Donovan, Franklin, Hysell, B. Jacobson, Kitchens, Kreibich, Maxey, McCarville, Melotik, Miresse, Mursau, O'Connor, Palmeri, Piwowarczyk, Rivera-Wagner, Sheehan, Sinicki, Spaude, Subeck, Tenorio, Tucker, Tusler and Wichgers",
+    "date": "2025-01-24T06:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "introduction"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB2"
+}

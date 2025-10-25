@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Report correctly enrolled on 6-19-2025",
+    "date": "2025-06-19T05:00:00+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "enrolled"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "AB87"
+}

@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Introduced by Senators Feyen, Marklein and Quinn; \ncosponsored by Representatives Duchow, Allen, Brooks, Kreibich, Maxey and O'Connor",
+    "date": "2025-04-25T05:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "introduction"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB226"
+}

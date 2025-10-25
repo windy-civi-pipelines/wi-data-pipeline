@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Report passage recommended by Committee on Health, Ayes 5, Noes 0",
+    "date": "2025-05-05T05:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "committee-passage-favorable"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB183"
+}

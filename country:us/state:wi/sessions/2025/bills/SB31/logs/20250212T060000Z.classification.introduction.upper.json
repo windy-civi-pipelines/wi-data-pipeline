@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Introduced by Senator Cabral-Guevara; \ncosponsored by Representatives Gundrum, Armstrong, Brill, Callahan, Goeben, Knodl, Kreibich, Murphy, Sinicki, Subeck, Wichgers and Stubbs",
+    "date": "2025-02-12T06:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "introduction"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB31"
+}

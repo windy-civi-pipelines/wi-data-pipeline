@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Introduced by Senators Tomczyk and Testin; \ncosponsored by Representatives Krug, Hurd, B. Jacobson, Snyder and Spiros",
+    "date": "2025-09-11T05:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "introduction"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB421"
+}

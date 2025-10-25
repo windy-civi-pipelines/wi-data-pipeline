@@ -1,0 +1,13 @@
+{
+  "action": {
+    "description": "Read first time and referred to Committee on Financial Institutions and Sporting Heritage",
+    "date": "2025-05-20T05:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "reading-1",
+      "referral-committee"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB265"
+}

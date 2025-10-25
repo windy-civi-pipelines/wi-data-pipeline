@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Representative Stroud withdrawn as a cosponsor",
+    "date": "2025-03-17T05:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "withdrawal"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB44"
+}

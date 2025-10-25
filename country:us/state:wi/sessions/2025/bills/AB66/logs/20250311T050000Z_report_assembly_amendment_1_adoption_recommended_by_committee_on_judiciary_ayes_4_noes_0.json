@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Report Assembly Amendment 1 adoption recommended by Committee on Judiciary, Ayes 4, Noes 0",
+    "date": "2025-03-11T05:00:00+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "committee-passage-favorable"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "AB66"
+}

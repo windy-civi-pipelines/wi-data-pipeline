@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Introduced by Senator Feyen; \ncosponsored by Representatives Armstrong, O'Connor, Brooks, Knodl, Kreibich, Murphy, Penterman, Dittrich and Green",
+    "date": "2025-04-14T05:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "introduction"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB201"
+}

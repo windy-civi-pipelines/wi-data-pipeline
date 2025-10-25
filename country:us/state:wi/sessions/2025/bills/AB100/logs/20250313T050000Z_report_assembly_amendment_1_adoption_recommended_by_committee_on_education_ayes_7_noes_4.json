@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Report Assembly Amendment 1 adoption recommended by Committee on Education, Ayes 7, Noes 4",
+    "date": "2025-03-13T05:00:00+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "committee-passage-favorable"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "AB100"
+}

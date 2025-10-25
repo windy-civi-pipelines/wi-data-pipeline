@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Referred to Campaigns and Elections, Ayes 53, Noes 44",
+    "date": "2025-03-13T05:00:00+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "AB15"
+}

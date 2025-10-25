@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Report adoption of Senate Amendment 1 recommended by Committee on Education, Ayes 4, Noes 1",
+    "date": "2025-04-11T05:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "amendment-passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB29"
+}

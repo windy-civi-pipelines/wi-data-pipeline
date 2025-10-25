@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Introduced by Representatives Duchow, Arney, Bare, Brown, Clancy, Dittrich, Donovan, Emerson, Fitzgerald, Gundrum, B. Jacobson, Joers, Kaufert, Kirsch, Knodl, Kreibich, Madison, McCarville, Melotik, Moses, Mursau, Novak, O'Connor, Ortiz-Velez, Penterman, Phelps, Piwowarczyk, Prado, Rodriguez, Roe, Sinicki, Snodgrass, Stroud, Stubbs, Tusler, VanderMeer, Vining, Wittke and Murphy; \ncosponsored by Senators Cabral-Guevara, Carpenter, Dassler-Alfheim, Larson, Nass, Pfaff, Ratcliff, Roys, Spreitzer, Wall, Wanggaard and Wirch",
+    "date": "2025-10-03T05:00:00+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "introduction"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "AJR96"
+}

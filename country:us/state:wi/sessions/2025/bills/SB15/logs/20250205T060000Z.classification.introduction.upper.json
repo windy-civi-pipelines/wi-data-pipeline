@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Introduced by Senators Jacque and Carpenter; \ncosponsored by Representatives Kreibich, Behnke, Dittrich, Gundrum, Murphy, Mursau, Tusler, Wichgers, Allen, Donovan, Tenorio and Knodl",
+    "date": "2025-02-05T06:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "introduction"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB15"
+}

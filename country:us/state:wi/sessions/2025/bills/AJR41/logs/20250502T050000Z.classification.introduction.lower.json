@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Introduced by Representatives Subeck, VanderMeer, Udell, Tenorio, Stubbs, Snodgrass, Sinicki, Sheehan, Roe, Prado, Phelps, Palmeri, Ortiz-Velez, Neubauer, Murphy, Miresse, Melotik, McCarville, Mayadev, Madison, Knodl, Kirsch, Johnson, Joers, J. Jacobson, Hong, Gundrum, Goodwin, Emerson, Dittrich, DeSmidt, DeSanto, Clancy, Brown, Bare, Arney, Anderson and Neylon; \ncosponsored by Senators Habush Sinykin, Spreitzer, Wirch, Wanggaard, Wall, Roys, Ratcliff, Pfaff, Larson, L. Johnson, Hesselbein, Drake and Carpenter",
+    "date": "2025-05-02T05:00:00+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "introduction"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "AJR41"
+}

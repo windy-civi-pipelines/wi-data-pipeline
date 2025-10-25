@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Joint Committee for Review of Administrative Rules report received pursuant to s. 227.26(2)(g), Wisconsin Statutes",
+    "date": "2025-03-10T05:00:00+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "receipt"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "AB14"
+}

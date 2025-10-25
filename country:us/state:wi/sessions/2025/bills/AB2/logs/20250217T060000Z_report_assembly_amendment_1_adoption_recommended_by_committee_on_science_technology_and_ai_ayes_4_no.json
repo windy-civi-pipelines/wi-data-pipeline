@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Report Assembly Amendment 1 adoption recommended by Committee on Science, Technology, and AI, Ayes 4, Noes 2",
+    "date": "2025-02-17T06:00:00+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "committee-passage-favorable"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "AB2"
+}

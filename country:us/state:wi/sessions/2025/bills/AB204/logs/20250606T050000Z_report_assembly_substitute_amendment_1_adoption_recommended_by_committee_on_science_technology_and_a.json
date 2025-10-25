@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Report Assembly Substitute Amendment 1 adoption recommended by Committee on Science, Technology, and AI, Ayes 6, Noes 0",
+    "date": "2025-06-06T05:00:00+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "committee-passage-favorable"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "AB204"
+}

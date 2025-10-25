@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Introduced by Senators Dassler-Alfheim, Keyeski, Drake, Hesselbein, L. Johnson, Larson, Ratcliff, Roys, Spreitzer and Wirch; \ncosponsored by Representatives Snodgrass, Mayadev, McCarville, Anderson, Andraca, Arney, Bare, Brown, Clancy, DeSmidt, Emerson, Fitzgerald, J. Jacobson, Joers, Johnson, Madison, Miresse, Moore Omokunde, Neubauer, Ortiz-Velez, Palmeri, Phelps, Prado, Roe, Sheehan, Spaude, Stroud, Stubbs, Subeck, Tenorio and Udell",
+    "date": "2025-05-09T05:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "introduction"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB251"
+}

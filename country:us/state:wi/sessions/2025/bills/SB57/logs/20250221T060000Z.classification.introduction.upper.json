@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Introduced by Senators Bradley, Jacque, Kapenga, Nass, Quinn, Testin, Tomczyk and Wanggaard; \ncosponsored by Representatives Vos, Piwowarczyk, Allen, Armstrong, August, Behnke, Brill, Callahan, Dallman, Dittrich, Donovan, Duchow, Goeben, Green, Gundrum, Hurd, B. Jacobson, Knodl, Kreibich, Krug, Maxey, Murphy, Mursau, Nedweski, O'Connor, Penterman, Petersen, Sortwell, Spiros, Steffen, Swearingen, Tittl, Tucker, Tusler, Wichgers, Zimmerman and Gustafson",
+    "date": "2025-02-21T06:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "introduction"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB57"
+}

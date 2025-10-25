@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Report approved by the Governor on 10-21-2025. 2025 Wisconsin Act 36",
+    "date": "2025-10-22T05:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "executive-signature"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB183"
+}

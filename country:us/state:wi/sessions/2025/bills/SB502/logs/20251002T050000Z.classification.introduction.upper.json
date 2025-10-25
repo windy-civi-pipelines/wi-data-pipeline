@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Introduced by Senators James and Feyen; \ncosponsored by Representatives Sortwell, Behnke, Dittrich, Kreibich, Mursau, Melotik and Murphy",
+    "date": "2025-10-02T05:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "introduction"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB502"
+}

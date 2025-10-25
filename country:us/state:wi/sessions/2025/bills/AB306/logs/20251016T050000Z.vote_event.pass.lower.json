@@ -1,0 +1,33 @@
+{
+  "identifier": "",
+  "motion_text": "Report Assembly Amendment 1 adoption recommended by Committee on Local Government, Ayes 9, Noes 1",
+  "motion_classification": [
+    "amendment"
+  ],
+  "start_date": "2025-10-16T05:00:00+00:00",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "2025",
+  "bill": "c615b108-b14e-11f0-9d72-ea57c675f0cd",
+  "bill_action": null,
+  "bill_identifier": "AB306",
+  "votes": [],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 9
+    },
+    {
+      "option": "no",
+      "value": 1
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://docs.legis.wisconsin.gov/document/journals/2025/hist211567",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "hist211567-AB306"
+}

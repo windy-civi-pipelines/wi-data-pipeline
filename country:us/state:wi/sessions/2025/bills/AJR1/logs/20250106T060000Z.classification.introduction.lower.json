@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Introduced by Representatives Snyder, Donovan, Allen, Armstrong, August, Behnke, Born, Brooks, Callahan, Dallman, Dittrich, Duchow, Goeben, Green, Gundrum, Hurd, B. Jacobson, Kitchens, Knodl, Kreibich, Krug, Melotik, Moses, Murphy, Mursau, Nedweski, Gustafson, Neylon, Novak, O'Connor, Penterman, Petersen, Piwowarczyk, Sortwell, Spiros, Steffen, Summerfield, Swearingen, Tittl, Tucker, Tusler, Vos, Wichgers, Wittke, Zimmerman, Maxey, Kaufert, VanderMeer, Franklin, Brill and Kurtz; \ncosponsored by Senators Wanggaard, Bradley, Cabral-Guevara, Felzkowski, Feyen, Hutton, Jacque, Jagler, James, Kapenga, Marklein, Nass, Quinn, Testin, Tomczyk, Wimberger, Stafsholt and LeMahieu",
+    "date": "2025-01-06T06:00:00+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "introduction"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "AJR1"
+}

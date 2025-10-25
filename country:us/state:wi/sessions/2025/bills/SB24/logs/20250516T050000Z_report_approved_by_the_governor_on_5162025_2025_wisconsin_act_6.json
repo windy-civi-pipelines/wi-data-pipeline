@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Report approved by the Governor on 5-16-2025. 2025 Wisconsin Act 6",
+    "date": "2025-05-16T05:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "executive-signature"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB24"
+}

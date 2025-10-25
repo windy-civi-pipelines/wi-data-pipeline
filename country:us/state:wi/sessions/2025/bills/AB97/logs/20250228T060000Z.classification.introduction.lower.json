@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Introduced by Representatives Snyder, Rodriguez, Allen, Anderson, Andraca, Arney, Bare, Behnke, Billings, Brown, Clancy, Cruz, DeSmidt, Dittrich, Donovan, Doyle, Duchow, Emerson, Fitzgerald, Franklin, Goodwin, Gundrum, Gustafson, Hong, Hysell, J. Jacobson, Joers, Johnson, Kaufert, Kirsch, Kitchens, Kreibich, Krug, Kurtz, Madison, Maxey, Mayadev, McCarville, Melotik, Miresse, Moore Omokunde, Mursau, Neubauer, Neylon, Novak, Palmeri, Petersen, Phelps, Prado, Rivera-Wagner, Roe, Sheehan, Sinicki, Snodgrass, Spaude, Steffen, Stroud, Stubbs, Subeck, Taylor, Tenorio, Tusler, Udell, Vining, Wichgers, Wittke and Summerfield; \ncosponsored by Senators James, Felzkowski, Bradley, Dassler-Alfheim, Drake, Feyen, Habush Sinykin, Hesselbein, Keyeski, Larson, Marklein, Pfaff, Quinn, Ratcliff, Roys, Spreitzer, Tomczyk, Wall, Wanggaard, Wimberger, Wirch and Carpenter",
+    "date": "2025-02-28T06:00:00+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "introduction"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "AB97"
+}

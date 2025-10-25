@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Introduced by Representatives August, Allen, Anderson, Armstrong, Arney, Bare, Behnke, Born, Callahan, Dallman, DeSmidt, Donovan, Doyle, Franklin, Goodwin, Gundrum, Hurd, B. Jacobson, J. Jacobson, Johnson, Kaufert, Knodl, Kreibich, Krug, Kurtz, McCarville, Melotik, Miresse, Murphy, Nedweski, Neubauer, Novak, O'Connor, Ortiz-Velez, Penterman, Prado, Pronschinske, Sinicki, Snodgrass, Spiros, Stubbs, Subeck, Tranel, Wichgers, Wittke, Zimmerman, Roe and Dittrich; \ncosponsored by Senators LeMahieu, James, Carpenter, Dassler-Alfheim, Hesselbein, Jacque, Jagler, Nass, Pfaff, Ratcliff, Roys, Spreitzer, Testin, Tomczyk, Wall, Wanggaard, Wirch and Marklein",
+    "date": "2025-10-08T05:00:00+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "introduction"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "AJR99"
+}

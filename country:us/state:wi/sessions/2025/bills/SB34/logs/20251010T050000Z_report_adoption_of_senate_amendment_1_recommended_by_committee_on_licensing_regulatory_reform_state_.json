@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Report adoption of Senate Amendment 1 recommended by Committee on Licensing, Regulatory Reform, State and Federal Affairs, Ayes 4, Noes 1",
+    "date": "2025-10-10T05:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "amendment-passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB34"
+}

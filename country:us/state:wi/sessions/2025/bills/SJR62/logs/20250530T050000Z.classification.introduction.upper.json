@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Introduced by Senators Habush Sinykin, Cabral-Guevara, Carpenter, Dassler-Alfheim, Drake, Hesselbein, Keyeski, Larson, Pfaff, Ratcliff, Roys, Spreitzer and Wirch; \ncosponsored by Representatives Palmeri, Mursau, Andraca, Arney, Bare, Clancy, Cruz, DeSanto, DeSmidt, Dittrich, Emerson, Fitzgerald, Joers, Johnson, Kaufert, Kirsch, Madison, McCarville, Melotik, Miresse, Murphy, Phelps, Roe, Sheehan, Sinicki, Snodgrass, Stroud, Stubbs, Tenorio and Udell",
+    "date": "2025-05-30T05:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "introduction"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SJR62"
+}

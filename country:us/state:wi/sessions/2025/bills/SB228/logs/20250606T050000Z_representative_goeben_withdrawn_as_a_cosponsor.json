@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Representative Goeben withdrawn as a cosponsor",
+    "date": "2025-06-06T05:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "withdrawal"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB228"
+}

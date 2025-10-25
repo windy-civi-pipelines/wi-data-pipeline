@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Senator James added as a coauthor",
+    "date": "2025-06-30T05:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SB337"
+}

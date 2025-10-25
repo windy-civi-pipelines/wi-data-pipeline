@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Introduced by Senators James, Dassler-Alfheim and Keyeski; \ncosponsored by Representatives Moses, Armstrong, Behnke, Duchow, Gundrum, Knodl, Melotik, Mursau, O'Connor, Wichgers and Murphy",
+    "date": "2025-10-02T05:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "introduction"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB492"
+}

@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Adopted, Ayes 21, Noes 12",
+    "date": "2025-01-06T06:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SR1"
+}

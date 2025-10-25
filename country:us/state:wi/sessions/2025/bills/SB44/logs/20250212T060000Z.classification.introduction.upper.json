@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Introduced by Senator Cabral-Guevara; \ncosponsored by Representatives Sortwell, Behnke, Goeben, Miresse, Piwowarczyk, Stroud and Wichgers",
+    "date": "2025-02-12T06:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "introduction"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB44"
+}

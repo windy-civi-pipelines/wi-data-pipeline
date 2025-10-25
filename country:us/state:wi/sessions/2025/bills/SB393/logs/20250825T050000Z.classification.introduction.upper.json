@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Introduced by Senator James; \ncosponsored by Representatives Sortwell, Penterman, Dittrich, Goeben, Goodwin, Knodl, Kreibich, Melotik, Mursau and O'Connor",
+    "date": "2025-08-25T05:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "introduction"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB393"
+}

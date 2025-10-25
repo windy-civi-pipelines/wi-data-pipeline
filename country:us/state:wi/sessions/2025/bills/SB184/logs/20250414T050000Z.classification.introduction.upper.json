@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Introduced by Senators Tomczyk, Wanggaard, Quinn, Feyen, Nass and Bradley; \ncosponsored by Representatives Tucker, Green, Piwowarczyk, Brill, Krug, Maxey, B. Jacobson, Callahan, Kreibich, Penterman, Wichgers, Novak, Behnke, Goeben, Murphy, Knodl, Snyder, Dallman, Dittrich, Spiros, Gundrum, Tusler, Melotik, Tranel and O'Connor",
+    "date": "2025-04-14T05:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "introduction"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB184"
+}

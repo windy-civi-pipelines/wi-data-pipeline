@@ -1,0 +1,13 @@
+{
+  "action": {
+    "description": "Read first time and referred to Committee on Licensing, Regulatory Reform, State and Federal Affairs",
+    "date": "2025-04-25T05:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "reading-1",
+      "referral-committee"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB225"
+}

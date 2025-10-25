@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Report adoption of Senate Substitute Amendment 3 recommended by Committee on Agriculture and Revenue, Ayes 6, Noes 2",
+    "date": "2025-09-19T05:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "amendment-passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB36"
+}

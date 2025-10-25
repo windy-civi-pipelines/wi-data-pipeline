@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Fiscal estimate received",
+    "date": "2025-03-10T05:00:00+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "receipt"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "AB64"
+}

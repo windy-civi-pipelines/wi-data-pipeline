@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Senate Amendment 2 offered by Senators Smith, Carpenter, Dassler-Alfheim, Drake, Habush Sinykin, Hesselbein, L. Johnson, Keyeski, Larson, Pfaff, Ratcliff, Roys, Spreitzer, Wall and Wirch",
+    "date": "2025-10-14T05:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SB337"
+}

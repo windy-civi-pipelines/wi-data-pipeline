@@ -1,0 +1,13 @@
+{
+  "action": {
+    "description": "Read first time and referred to Committee on Criminal Justice and Public Safety",
+    "date": "2025-02-24T06:00:00+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "reading-1",
+      "referral-committee"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "AB55"
+}

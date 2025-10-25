@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Report passage recommended by Committee on Mental Health, Substance Abuse Prevention, Children and Families, Ayes 4, Noes 1",
+    "date": "2025-06-13T05:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "committee-passage-favorable"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB308"
+}

@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Introduced by Representatives O'Connor, Kitchens, Stubbs, Mursau, Billings, Ortiz-Velez, Bare, Brill, Anderson, Callahan, Clancy, Emerson, Fitzgerald, Franklin, Goodwin, Green, Johnson, Kaufert, Kirsch, Madison, McCarville, Melotik, Miresse, Moore Omokunde, Murphy, Novak, Phelps, Piwowarczyk, Rodriguez, Sheehan, Sinicki, Snyder, Spaude, Stroud, Taylor, Udell, Vining, Wichgers, Wittke, Behnke, Joers, Snodgrass, DeSmidt, Gundrum, Dittrich and Palmeri; \ncosponsored by Senators L. Johnson, James, Carpenter, Dassler-Alfheim, Habush Sinykin, Hesselbein, Jacque, Keyeski, Larson, Pfaff, Ratcliff, Roys, Spreitzer, Wirch and Drake",
+    "date": "2025-09-26T05:00:00+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "introduction"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "AJR94"
+}

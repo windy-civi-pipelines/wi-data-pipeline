@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Senate Amendment 1 offered by Senator Bradley",
+    "date": "2025-04-28T05:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SB125"
+}

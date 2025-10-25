@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Referred to joint committee on Finance",
+    "date": "2025-05-15T05:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "referral-committee"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB125"
+}

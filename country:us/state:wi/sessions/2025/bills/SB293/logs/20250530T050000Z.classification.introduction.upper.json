@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Introduced by Senators Smith, Pfaff, Habush Sinykin, Carpenter, Drake, Hesselbein, Larson, Ratcliff, Spreitzer, Wall, Wirch and Dassler-Alfheim; \ncosponsored by Representatives Snodgrass, Behnke, DeSanto, Miresse, Anderson, Arney, Bare, Billings, Clancy, Cruz, DeSmidt, Doyle, Fitzgerald, Joers, Johnson, Madison, Mayadev, Moore Omokunde, Palmeri, Phelps, Rivera-Wagner, Roe, Sheehan, Sinicki, Stubbs, Subeck, Tenorio, Andraca, J. Jacobson and Udell",
+    "date": "2025-05-30T05:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "introduction"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB293"
+}

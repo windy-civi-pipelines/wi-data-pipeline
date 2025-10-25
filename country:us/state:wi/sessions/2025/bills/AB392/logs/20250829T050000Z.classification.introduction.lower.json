@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Introduced by Representatives Stubbs, Snyder, Joers, Vining, Neubauer, Moore Omokunde, Novak, Rivera-Wagner, Goodwin, O'Connor, Tenorio, Bare, Miresse, Sinicki, Taylor, Brooks, Udell, Emerson, Roe, Behnke, Clancy, Hong, Stroud, Fitzgerald, Armstrong, Phelps, Mayadev, Madison, Andraca, Kaufert, DeSmidt, Billings, Haywood, Anderson, Tranel, Sheehan, Subeck, Gustafson and Johnson; \ncosponsored by Senators James, L. Johnson, Ratcliff, Roys, Hesselbein, Drake, Wirch, Carpenter, Keyeski, Larson, Smith, Dassler-Alfheim, Habush Sinykin, Pfaff, Wall and Spreitzer",
+    "date": "2025-08-29T05:00:00+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "introduction"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "AB392"
+}

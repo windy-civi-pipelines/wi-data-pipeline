@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Assembly Amendment 1 offered by Representative Roe",
+    "date": "2025-09-05T05:00:00+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "AB309"
+}

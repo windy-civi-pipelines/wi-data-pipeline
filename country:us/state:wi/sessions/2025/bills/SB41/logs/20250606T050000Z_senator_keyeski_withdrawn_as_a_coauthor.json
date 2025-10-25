@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Senator Keyeski withdrawn as a coauthor",
+    "date": "2025-06-06T05:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "withdrawal"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB41"
+}

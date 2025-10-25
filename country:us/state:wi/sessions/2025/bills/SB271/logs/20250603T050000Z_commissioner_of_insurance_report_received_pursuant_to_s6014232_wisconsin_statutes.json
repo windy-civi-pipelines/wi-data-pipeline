@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Commissioner of Insurance report received pursuant to s.601.423(2), Wisconsin Statutes",
+    "date": "2025-06-03T05:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "receipt"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB271"
+}

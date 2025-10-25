@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Introduced by Senator Jacque; \ncosponsored by Representatives Mursau, Behnke, Murphy, Subeck and Tusler",
+    "date": "2025-02-26T06:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "introduction"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB78"
+}

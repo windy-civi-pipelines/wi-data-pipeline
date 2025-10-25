@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Introduced by Senator Feyen; \ncosponsored by Representatives Kreibich, Allen, Knodl, Murphy, O'Connor, Penterman, Summerfield, Brooks and Palmeri",
+    "date": "2025-10-02T05:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "introduction"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB479"
+}

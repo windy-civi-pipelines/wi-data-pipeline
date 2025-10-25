@@ -1,0 +1,31 @@
+{
+  "identifier": "",
+  "motion_text": "Senate Amendment 2 rejected, Ayes 18, Noes 15",
+  "motion_classification": [],
+  "start_date": "2025-10-14T05:00:00+00:00",
+  "result": "pass",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "2025",
+  "bill": "834d8832-b14e-11f0-9d72-ea57c675f0cd",
+  "bill_action": null,
+  "bill_identifier": "SB337",
+  "votes": [],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 18
+    },
+    {
+      "option": "no",
+      "value": 15
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://docs.legis.wisconsin.gov/document/amends/2025/REG/SB337-SA2",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "SB337-SA2-SB337"
+}

@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Introduced by Senators Quinn and Tomczyk; \ncosponsored by Representatives Green, Armstrong, Behnke, Mursau, O'Connor, Tucker and Tusler",
+    "date": "2025-02-21T06:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "introduction"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB56"
+}

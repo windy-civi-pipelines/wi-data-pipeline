@@ -1,0 +1,31 @@
+{
+  "identifier": "",
+  "motion_text": "Referred to Environment, Ayes 53, Noes 44",
+  "motion_classification": [],
+  "start_date": "2025-03-13T05:00:00+00:00",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "2025",
+  "bill": "a171c8f0-b14e-11f0-9d72-ea57c675f0cd",
+  "bill_action": null,
+  "bill_identifier": "AB16",
+  "votes": [],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 53
+    },
+    {
+      "option": "no",
+      "value": 44
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://docs.legis.wisconsin.gov/document/committee/2025/2919",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "2919-AB16"
+}

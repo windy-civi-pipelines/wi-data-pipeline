@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Published 8-9-2025",
+    "date": "2025-08-11T05:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "became-law"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB255"
+}

@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Introduced by Senator Wanggaard; \ncosponsored by Representatives Tusler, Dittrich, Gundrum, Kreibich, Murphy, O'Connor, Penterman, Sinicki and Subeck",
+    "date": "2025-04-03T05:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "introduction"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB169"
+}

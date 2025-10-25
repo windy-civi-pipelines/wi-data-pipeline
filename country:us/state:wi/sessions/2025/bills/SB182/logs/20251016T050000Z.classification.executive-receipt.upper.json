@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Presented to the Governor on 10-16-2025 by directive of the President, pursuant to Senate Rule 44m (3)",
+    "date": "2025-10-16T05:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "executive-receipt"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB182"
+}

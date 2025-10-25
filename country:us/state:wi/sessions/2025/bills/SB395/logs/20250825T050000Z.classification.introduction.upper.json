@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Introduced by Senator Nass; \ncosponsored by Representatives Penterman, O'Connor, Gundrum, Dittrich, Knodl and Goodwin",
+    "date": "2025-08-25T05:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "introduction"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB395"
+}

@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Introduced by Senators Hutton, Nass and Testin; \ncosponsored by Representatives Krug, Allen, Gundrum, Maxey, Murphy, O'Connor, Snyder and Steffen",
+    "date": "2025-04-03T05:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "introduction"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB177"
+}
